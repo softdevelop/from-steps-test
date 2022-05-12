@@ -1,0 +1,40 @@
+.main{
+    padding: 60px 100px ;
+    text-align: center;
+}
+.form{
+    text-align: left;
+    padding-left : 150px;
+}
+.input{
+    padding: 10px; 
+}
+.drop{
+    padding: 10px; 
+    padding-right: 93px;
+}
+
+.border{
+    margin-top:30px;
+    background-color: #FAFAFA;
+    text-align: center;
+}
+
+.next{
+    margin-top:10px;
+    padding :10px 40px;
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    margin-left:20px;
+    cursor: pointer;
+    
+}
+.back{
+    margin-top:10px;
+    padding :10px 40px;
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
